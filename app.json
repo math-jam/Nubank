@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "Nubank",
     "slug": "Nubank",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,6 +22,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Clone App Nubank"
   }
 }
