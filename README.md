@@ -11,4 +11,4 @@ To run the project first, you must install the expo with comand
 
 ```npm install -g expo-cli```
 
-after your terminal type <b>npm i</b> and <b>npm start</b>.
+after your terminal type ```npm i``` and ```npm start```.
